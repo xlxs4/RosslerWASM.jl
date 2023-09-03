@@ -1,5 +1,6 @@
 [deps]
 DiffEqGPU = "071ae1c0-96b5-11e9-1965-c90190d839ea"
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
 OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
 PkgPage = "e7214860-93a8-4f22-b43d-bd447d1a2094"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
