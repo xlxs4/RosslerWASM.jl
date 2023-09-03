@@ -67,7 +67,7 @@
 
 @def add_github_view  = true
 @def add_github_star  = true
-@def github_repo      = "tshort/RosslerWASM.jl"
+@def github_repo      = "xlxs4/RosslerWASM.jl"
 
 <!-- SECTION LAYOUT
 NOTE:
